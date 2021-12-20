@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoFood</string>
+    <string name="Descripcion">Hamburguesa</string>
+    <string name="Precio">$17.800</string>
+    <string name="DescripcionItem2">Chorizo</string>
+    <string name="PrecioItem2">$12.000</string>
+    <string name="Descripcionitem3">Costillas</string>
+    <string name="PrecioItem3">$25.000</string>
+</resources>
